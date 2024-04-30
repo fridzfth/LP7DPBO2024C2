@@ -1,6 +1,4 @@
-**LP7DPBO2024C2" - 2202680 **
-
-### Judul: Flappy Bird Java Swing
+### Flappy Bird Java Swing - LP7DPBO2024C2" - 2202680
 
 ### Deskripsi Singkat:
 Program ini adalah klon dari permainan Flappy Bird yang populer, dibuat menggunakan Java Swing. Pemain mengontrol burung untuk menghindari rintangan dan mencetak skor sebanyak mungkin sebelum kecelakaan.
@@ -37,3 +35,13 @@ Program menggunakan beberapa gambar sebagai aset:
 - `bird.png`: Gambar burung.
 - `lowerPipe.png` dan `upperPipe.png`: Gambar rintangan bawah dan atas.
 
+### Screenshots:
+![스크린샷 2024-04-30 220046](https://github.com/fridzfth/LP7DPBO2024C2/assets/140497713/e4ebe2a5-113a-44a3-992d-8d653ce09973)
+
+![스크린샷 2024-04-30 205848](https://github.com/fridzfth/LP7DPBO2024C2/assets/140497713/94cc6453-cd29-4499-8249-293196e4b7f6)
+
+![스크린샷 2024-04-30 205745](https://github.com/fridzfth/LP7DPBO2024C2/assets/140497713/84ebef38-1a35-46ae-b363-f7865f4ef079)
+
+![스크린샷 2024-04-30 205811](https://github.com/fridzfth/LP7DPBO2024C2/assets/140497713/46874357-2733-489a-ae9d-e3f7f00832be)
+
+![스크린샷 2024-04-30 205824](https://github.com/fridzfth/LP7DPBO2024C2/assets/140497713/fbc5d272-1b97-46ed-a351-4d0f34476b69)
